@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+p{
+    width: 85%;
+    margin: auto;
+}
+
+li {
+	margin: 0;
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	background-image: url("../Images/cry.gif");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}
