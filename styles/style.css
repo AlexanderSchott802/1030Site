@@ -20,4 +20,5 @@ li {
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 40px;
+    display: inline;
 }
